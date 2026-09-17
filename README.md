@@ -1,3 +1,3 @@
 # website-visuals
 
-<a href="https://mcmaster-eng.github.io/website-visuals/fast_facts.html">Fast Facts - Enrolment & Degrees</a>
+<a href="https://mcmaster-faculty-of-engineering.github.io/website-visuals/fast_facts.html">Fast Facts - Enrolment & Degrees</a>
